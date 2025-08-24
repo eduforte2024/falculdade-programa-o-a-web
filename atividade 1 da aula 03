@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <h1>aluna: eduarda silva forte</h1>
+        <p>Estudante de ADS(analise e desenvolvimento de siatemas | Desenvolvedora em formação</p>
+    </header>
+
+    <!-- Sobre Mim -->
+    <section id="about">
+        <h2>Sobre Mim</h2>
+        <p>Olá! Meu nome é eduarda, tenho 19 anos e sou apaixonada por tecnologia. 
+           Estou sempre em busca de aprender novas linguagens de programação e desenvolver projetos criativos.</p>
+    </section>
+
+    <!-- Experiência Profissional -->
+    <section id="experience">
+        <h2>Experiência Profissional</h2>
+        <ul>
+            <li>
+                <h3>Projeto Acadêmico - QuizMaster</h3>
+                <p>Desenvolvi um jogo de perguntas e respostas em Python/Flask. 
+                   Trabalhei com lógica de programação, banco de dados e interface web.</p>
+            </li>
+            <li>
+                <h3>Projeto Mapa Estudantil</h3>
+                <p>Participei da criação de um aplicativo de localização offline para instituições de ensino.</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Formação Acadêmica -->
+    <section id="education">
+        <h2>Formação Acadêmica</h2>
+        <ul>
+            <li><strong>Curso:</strong> Análise e Desenvolvimento de Sistemas - UNIDESC</li>
+            <li><strong>Certificações:</strong> Lógica de Programação, HTML/CSS, Python</li>
+        </ul>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>© 2025 - Desenvolvido por eduarda</p>
+    </footer>
+</body>
+</html>
