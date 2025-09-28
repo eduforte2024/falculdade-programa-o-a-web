@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <h1><span class="highlight-blue">Aluna:</span> Eduarda Silva Forte</h1>
+        <p>💻 Estudante de <span class="highlight-green">ADS</span> | Desenvolvedora em formação</p>
+    </header>
+
+    <!-- Sobre Mim -->
+    <section id="about">
+        <h2>🌟 Sobre Mim</h2>
+        <p>Olá! Meu nome é <span class="highlight-blue">Eduarda</span>, tenho 19 anos e sou apaixonada por tecnologia. 
+           Estou sempre em busca de aprender novas linguagens de programação e desenvolver projetos criativos.</p>
+    </section>
+
+    <!-- Experiência Profissional -->
+    <section id="experience">
+        <h2>🚀 Experiência Profissional</h2>
+        <ul>
+            <li>
+                <h3 class="highlight-green">Projeto Acadêmico - QuizMaster</h3>
+                <p>Desenvolvi um jogo de perguntas e respostas em <strong>Python/Flask</strong>. 
+                   Trabalhei com lógica de programação, banco de dados e interface web.</p>
+            </li>
+            <li>
+                <h3 class="highlight-green">Projeto Mapa Estudantil</h3>
+                <p>Participei da criação de um aplicativo de <strong>localização offline</strong> para instituições de ensino.</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Formação Acadêmica -->
+    <section id="education">
+        <h2>🎓 Formação Acadêmica</h2>
+        <ul>
+            <li><strong>Curso:</strong> Análise e Desenvolvimento de Sistemas - UNIDESC</li>
+            <li><strong>Certificações:</strong> Lógica de Programação, HTML/CSS, Python</li>
+        </ul>
+    </section>
+
+    <!-- Contato -->
+    <section id="contact">
+        <h2>📩 Entre em Contato</h2>
+        <p>Email: <a href="mailto:eduarda@email.com">eduarda@email.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com" target="_blank">linkedin.com/in/eduarda</a></p>
+        <p>GitHub: <a href="https://github.com" target="_blank">github.com/eduarda</a></p>
+    </section>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>© 2025 - Desenvolvido por <span class="highlight-blue">Eduarda</span></p>
+    </footer>
+</body>
+</html>
