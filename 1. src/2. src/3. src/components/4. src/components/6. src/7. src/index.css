@@ -1,0 +1,23 @@
+.repo-card {
+  background: #161b22;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #0005;
+}
+
+.info-grid {
+  display: grid;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.contributors {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.contributor {
+  text-align: center;
+}
